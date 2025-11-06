@@ -13,6 +13,9 @@ The code also features interactive user input.
 ### Files used
 **bikeshare.py** includes the code. For performance reasons the data files **chicago.csv, new_york_city.csv and washington.csv** are not included in this repo.
 
+### License
+You can use this code to your liking but if you do please make sure to link to my Github account as the original source.
+
 ### Credits
 This repo is forked from udacity/pdsnd_github
 
